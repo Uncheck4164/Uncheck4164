@@ -1,4 +1,4 @@
-# 🙋‍♂️ About Me:
+# 🙋‍♂️ Sobre mi:
 Hola, bienvenido/a a mi github. Mi nombre es Ramiro, tengo 20 años y actualmente estudio Ingeniería Civil Informática en Chile. Me ha apasionado la programación desde los 14 años, desarrollando software con diferentes lenguajes y herramientas, como C#, Java, Python, HTML5, CSS3, Vue y MySQL. Me gusta explorar y aprender cada día sobre nuevas tecnologías y tendencias. Si quieres saber más sobre mí o mis proyectos, puedes enviarme un mensaje o visitar mi página de Linkedin. Espero que disfrutes de mi código y mis contribuciones.<br>
 
 
