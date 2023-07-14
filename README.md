@@ -12,7 +12,7 @@ Hola, bienvenido/a a mi github. Mi nombre es Ramiro, tengo 20 años y actualment
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Uncheck4164&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uncheck4164&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Cita de desarrollo
+### ✍️ Cita de desarrolladores
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
